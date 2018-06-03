@@ -1,3 +1,7 @@
 Advent of Code 2016
 Day 01
-20180603
+3/6/2018
+
+Tasks
+1) Clean up redundent folder and spelling mistake (Hazel23 3/6/2018)
+2) Create coding file for Day 01 and include question as comment (Hazel23 3/6/2018)
